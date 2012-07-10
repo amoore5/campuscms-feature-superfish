@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the CampusCMS Feature Superfish feature.
+ */
+
+include_once 'campuscms_feature_superfish.features.inc';
