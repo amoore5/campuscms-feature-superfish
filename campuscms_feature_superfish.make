@@ -8,5 +8,5 @@ projects[libraries] = 1.0
 
 ; Superfish
 libraries[superfish][download][type] = "git"
-libraries[superfish][download][url] = "https://github.com/mehrpadin/Superfish-for-Drupal/tarball/master"
+libraries[superfish][download][url] = "git://github.com/mehrpadin/Superfish-for-Drupal.git"
 libraries[superfish][directory_name] = "superfish"
